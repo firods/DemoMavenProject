@@ -1,0 +1,12 @@
+{
+	"weather_data": {
+		"baseurl": "https://samples.openweathermap.org",
+		"apikey": "b6907d289e10d714a6e88b30761fae22",
+		"path": "/data/2.5/weather",
+		"grouppath": "/data/2.5/group",
+		"city": "London",
+		"cityid": "2172797",
+		"cityzip": "94040",
+		"multiplecityIDs": "524901,703448,2643743"
+	}
+}
